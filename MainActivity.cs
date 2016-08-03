@@ -8,10 +8,10 @@ using Android.OS;
 
 namespace SpoilerSaver
 {
-    [Activity(Label = "SpoilerSaver", MainLauncher = true, Icon = "@drawable/icon")]
+    [Activity(Label = "SpoilerSaver", MainLauncher = true, Icon = "@drawable/spoilersaver")]
     public class MainActivity : Activity
     {
-        int count = 1;
+       // int count = 1;
 
         protected override void OnCreate(Bundle bundle)
         {
@@ -22,9 +22,7 @@ namespace SpoilerSaver
 
             // Get our button from the layout resource,
             // and attach an event to it
-            Button button = FindViewById<Button>(Resource.Id.MyButton);
-
-            button.Click += delegate { button.Text = string.Format("{0} clicks!", count++); };
+            ImageView image = FindViewById<ImageView>(Resource.Id.MyImage);
         }
     }
 }
