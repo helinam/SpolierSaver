@@ -6,12 +6,11 @@ using Android.Views;
 using Android.Widget;
 using Android.OS;
 
-namespace SpoilerSaver
+namespace SpoilerSaverApp
 {
     [Activity(Label = "SpoilerSaver", MainLauncher = true, Icon = "@drawable/spoilersaver")]
     public class MainActivity : Activity
     {
-       // int count = 1;
 
         protected override void OnCreate(Bundle bundle)
         {
@@ -22,7 +21,8 @@ namespace SpoilerSaver
 
             // Get our button from the layout resource,
             // and attach an event to it
-            ImageView image = FindViewById<ImageView>(Resource.Id.MyImage);
+            ImageView logo = FindViewById<ImageView>(Resource.Id.MyImage);
         }
     }
 }
+
