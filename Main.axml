@@ -1,14 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="#eee9e9"
+    android:isScrollContainer="true">
     <ImageView
         android:id="@+id/MyImage"
-        android:layout_width="wrap_content"
-        android:layout_height="fill_parent"
-        android:layout_alignParentTop="true"
-        android:layout_alignParentBottom="true"
-        android:layout_marginRight="6dip"
-        android:src="@drawable/spoilersaver" />
-</RelativeLayout>
+        android:layout_width="match_parent"
+        android:layout_height="175dp"
+        android:src="@drawable/spoilersaver"
+        android:scaleType="fitStart"
+        android:background="#fa8072"
+        android:layout_marginTop="0.0dp"
+        android:paddingLeft="35dp" />
+    <ImageButton
+        android:src="@drawable/got"
+        android:layout_height="100dp"
+        android:id="@+id/imageButton1"
+        android:layout_width="300dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="50dp"
+        android:scaleType="centerInside"
+        android:background="#ff000000"
+        android:paddingTop="25dp"
+        android:clickable="true" />
+    <ImageButton
+        android:src="@drawable/secret_circle"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:id="@+id/imageButton2"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="50dp"
+        android:scaleType="centerInside"
+        android:background="#ffffffff"
+        android:clickable="true" />
+</LinearLayout>
