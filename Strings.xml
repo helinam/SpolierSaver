@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Group_1">You are unfortunately not not caught up to watch any full episode of this show yet, keep reading! </string>
+    <string name="Group_2">You are completely caught up to season 1, episode 1</string>
+    <string name="Group_3">You are completely caught up to season 1, episode 2</string>
+    <string name="Group_4">You are caught up to season 1, episode 4
+    Season 1, episode 4 contains minor spoilers for book 1, chapter Bran 7.</string>
+    <string name="Group_5">You are caught up to season 1, episode 5.
+    Previous episodes contain minor spoilers for book 1, chapter Bran 7.</string>
+    <string name="Group_6">You are caught up to season 1, episode 7.
+    Season 1, episode 7 and previous episodes contain minor spoilers for book 1, chapter Bran 7.</string>
+    <string name="Group_7">You are caught up to season 1, episode 8.
+    Previous episodes contain minor spoilers for book 1, chapter Bran 7.</string>
+    <string name="Group_8">You are caught up to season 1, episode 9.
+    Previous episodes contain minor spoilers for book 1, chapter Bran 7.</string>
+    <string name="Group_9">You are completely caught up to season 1, episode 9.</string>
+</resources>
