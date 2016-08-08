@@ -92,7 +92,8 @@
                 android:layout_marginTop="20dp"
                 android:scaleType="centerInside"
                 android:background="#eee9e9"
-                android:clickable="true" />
+                android:clickable="true"
+                android:layout_marginBottom="50dp" />
             <ImageButton
                 android:src="@drawable/gossipgirl"
                 android:layout_width="300dp"
@@ -102,7 +103,9 @@
                 android:layout_marginTop="20dp"
                 android:scaleType="centerInside"
                 android:background="#eee9e9"
-                android:clickable="true" />
+                android:clickable="true"
+                android:scaleX="2.5"
+                android:scaleY="2.5" />
             <ImageButton
                 android:src="@drawable/shadowhunters"
                 android:layout_width="300dp"
@@ -110,7 +113,7 @@
                 android:id="@+id/imageButton8"
                 android:layout_marginLeft="40dp"
                 android:layout_marginTop="20dp"
-                android:scaleType="centerInside"
+                android:scaleType="centerCrop"
                 android:background="#eee9e9"
                 android:clickable="true"
                 android:tint="#000000ff"
