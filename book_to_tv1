@@ -31,13 +31,7 @@
         android:layout_marginLeft="41.5dp"
         android:padding="40dp"
         android:textColor="#ff000000" />
-        <LinearLayout
-        android:orientation="horizontal"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/linearLayout1"
-        android:background="#80808080">
-        <LinearLayout
+    <LinearLayout
         android:orientation="horizontal"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
