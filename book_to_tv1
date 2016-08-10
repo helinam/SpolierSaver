@@ -31,4 +31,54 @@
         android:layout_marginLeft="41.5dp"
         android:padding="40dp"
         android:textColor="#ff000000" />
+        <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout1"
+        android:background="#80808080">
+        <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout1"
+        android:background="#80808080">
+        <ImageButton
+            android:src="@drawable/backarrow"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/backButton"
+            android:background="#fa8072" />
+        <Button
+            android:text="Book 1"
+            android:layout_width="66dp"
+            android:layout_height="match_parent"
+            android:id="@+id/book1"
+            android:background="@colors/gray1" />
+        <Button
+            android:text="Book 2"
+            android:layout_width="66dp"
+            android:layout_height="match_parent"
+            android:id="@+id/book2"
+            android:background="@colors/gray2"
+            android:backgroundTint="#f0f8ffff" />
+        <Button
+            android:text="Book 3"
+            android:layout_width="66dp"
+            android:layout_height="match_parent"
+            android:id="@+id/book3"
+            android:background="@colors/gray3" />
+        <Button
+            android:text="Book 4"
+            android:layout_width="66dp"
+            android:layout_height="match_parent"
+            android:id="@+id/book4"
+            android:background="@colors/gray4" />
+        <Button
+            android:layout_width="66dp"
+            android:layout_height="match_parent"
+            android:id="@+id/book5"
+            android:background="@colors/gray5"
+            android:text="Book 5" />
+    </LinearLayout>
 </LinearLayout>
