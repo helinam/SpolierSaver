@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="gray1">#eee9e9</string>
+  <string name="gray2">#808080</string>
+  <string name="gray3">#595959</string>
+  <string name="gray4">#404040</string>
+  <string name="gray5">#262626</string>
+</resources>
