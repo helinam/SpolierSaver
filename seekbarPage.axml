@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eee9e9"
+    android:isScrollContainer="true">
+    <ImageView
+        android:id="@+id/MyImage"
+        android:layout_width="match_parent"
+        android:layout_height="175dp"
+        android:src="@drawable/spoilersaver"
+        android:scaleType="fitStart"
+        android:background="#fa8072"
+        android:layout_marginTop="0.0dp"
+        android:paddingLeft="35dp" />
+    <ImageView
+        android:src="@drawable/gotlogo"
+        android:layout_height="100dp"
+        android:id="@+id/gotName"
+        android:layout_width="370dp"
+        android:scaleType="centerInside"
+        android:background="#eee9e9"
+        android:layout_marginLeft="7dp"
+        android:scaleX="0.75"
+        android:scaleY="0.75" />
+    <SeekBar
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/seekBar1"
+        android:layout_marginLeft="40dp"
+        android:max="72" />
+    <TextView
+        android:text="(You have completed up to) Chapter:"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/chapter"
+        android:layout_marginLeft="41dp"
+        android:textColor="#ff000000"
+        android:textStyle="italic"
+        android:typeface="serif"
+        android:paddingTop="20dp"
+        android:textSize="17dp" />
+    <TextView
+        android:text="0"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/chapterNumber"
+        android:layout_marginLeft="41dp"
+        android:textColor="#ff000000"
+        android:textStyle="italic"
+        android:typeface="serif"
+        android:paddingTop="20dp"
+        android:textSize="17dp"
+        android:paddingLeft="140dp" />
+    <TextView
+        android:text="@string/Group_1"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="300dp"
+        android:layout_height="175dp"
+        android:id="@+id/textView1"
+        android:layout_marginLeft="41.5dp"
+        android:padding="20dp"
+        android:textColor="#ff000000"
+        android:textStyle="italic"
+        android:typeface="serif"
+        android:paddingTop="20dp"
+        android:textSize="17dp" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/backLayout"
+        android:rotationX="180"
+        android:rotationY="180">
+        <ImageButton
+            android:src="@drawable/backarrow"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/backButton"
+            android:background="#fa8072" />
+    </LinearLayout>
+</LinearLayout>
