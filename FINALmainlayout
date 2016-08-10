@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#eee9e9"
+    android:isScrollContainer="true">
+    <ImageView
+        android:id="@+id/MyImage"
+        android:layout_width="match_parent"
+        android:layout_height="175dp"
+        android:src="@drawable/spoilersaver"
+        android:scaleType="fitStart"
+        android:background="#fa8072"
+        android:layout_marginTop="0.0dp"
+        android:paddingLeft="35dp" />
+    <ScrollView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/scrollView1">
+        <LinearLayout
+            android:orientation="vertical"
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/linearLayout1"
+            android:paddingBottom="25dp">
+            <ImageButton
+                android:src="@drawable/gottt"
+                android:layout_height="100dp"
+                android:id="@+id/imageButton1"
+                android:layout_width="300dp"
+                android:layout_marginLeft="40dp"
+                android:scaleType="centerInside"
+                android:clickable="true"
+                android:background="#eee9e9"
+                android:layout_marginTop="20dp"
+                android:fadingEdge="vertical" />
+            <ImageButton
+                android:src="@drawable/outlander"
+                android:layout_width="300dp"
+                android:layout_height="100dp"
+                android:id="@+id/imageButton3"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="20dp"
+                android:scaleType="centerCrop"
+                android:background="#eee9e9"
+                android:clickable="true" />
+            <ImageButton
+                android:src="@drawable/hundred"
+                android:layout_width="300dp"
+                android:layout_height="100dp"
+                android:id="@+id/imageButton4"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="20dp"
+                android:scaleType="centerInside"
+                android:background="#eee9e9"
+                android:clickable="true" />
+            <ImageButton
+                android:src="@drawable/PLL"
+                android:layout_width="300dp"
+                android:layout_height="100dp"
+                android:id="@+id/imageButton5"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="20dp"
+                android:scaleType="centerInside"
+                android:background="#eee9e9"
+                android:clickable="true" />
+            <ImageButton
+                android:src="@drawable/secret_circle"
+                android:layout_width="300dp"
+                android:layout_height="100dp"
+                android:id="@+id/imageButton2"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="20dp"
+                android:scaleType="centerCrop"
+                android:background="#eee9e9"
+                android:clickable="true"
+                android:tint="#000000ff"
+                android:foregroundTint="#000000ff"
+                android:layout_marginRight="0.0dp" />
+            <ImageButton
+                android:src="@drawable/twd"
+                android:layout_width="300dp"
+                android:layout_height="100dp"
+                android:id="@+id/imageButton6"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="20dp"
+                android:scaleType="centerInside"
+                android:background="#eee9e9"
+                android:clickable="true"
+                android:layout_marginBottom="50dp" />
+            <ImageButton
+                android:src="@drawable/gossipgirl"
+                android:layout_width="300dp"
+                android:layout_height="100dp"
+                android:id="@+id/imageButton7"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="20dp"
+                android:scaleType="centerInside"
+                android:background="#eee9e9"
+                android:clickable="true"
+                android:scaleX="2.5"
+                android:scaleY="2.5" />
+            <ImageButton
+                android:src="@drawable/shadowhunters"
+                android:layout_width="300dp"
+                android:layout_height="100dp"
+                android:id="@+id/imageButton8"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="20dp"
+                android:scaleType="centerCrop"
+                android:background="#eee9e9"
+                android:clickable="true"
+                android:tint="#000000ff"
+                android:foregroundTint="#000000ff"
+                android:layout_marginRight="0.0dp" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
