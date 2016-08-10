@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="Group_1">You are unfortunately not caught up to watch any full episode of this show yet, keep reading! </string>
+  <string name="Group_2">You are completely caught up to season 1, episode 1</string>
+  <string name="Group_3">You are completely caught up to season 1, episode 2</string>
+  <string name="Group_4">
+    You are caught up to season 1, episode 4                
+    Season 1, episode 4 contains minor spoilers for book 1, chapter Bran 7.
+  </string>
+  <string name="Group_5">
+    You are caught up to season 1, episode 5.                     
+    Previous episodes contain minor spoilers for book 1, chapter Bran 7.
+  </string>
+  <string name="Group_6">
+    You are caught up to season 1, episode 7.                    
+    Season 1, episode 7 and previous episodes contain minor spoilers for book 1, chapter Bran 7.
+  </string>
+  <string name="Group_7">
+    You are caught up to season 1, episode 8.                      
+    Previous episodes contain minor spoilers for book 1, chapter Bran 7.
+  </string>
+  <string name="Group_8">
+    You are caught up to season 1, episode 9.                          
+    Previous episodes contain minor spoilers for book 1, chapter Bran 7.
+  </string>
+  <string name="Group_9">You are completely caught up to season 1, episode 9. </string>
+  <string name="Group_10">
+    You are caught up to season 1, episode 10.
+    Season 1, episode 10 contains minor spoilers for book 2, chapters Tyrion 6 and Catelyn 7.
+  </string>
+  <string name="Group_11">
+    You are caught up to season 2, episode 1.
+    Previous episodes contain minor spoilers for book 2, chapter Catelyn 7
+  </string>
+  <string name="Group_12">
+    You are caught up to season 2, episode 2.
+    Previous episodes contain minor spoilers for book 2, chapter Catelyn 7.
+  </string>
+  <string name="Group_13">
+    You are caught up to season 2, episode 3.
+    Previous episodes contain minor spoilers for book 2, chapter Catelyn 7.
+  </string>
+  <string name="Group_14">
+    You are completely caught up to season 2, episode 4.
+  </string>
+  <string name="Group_15">
+    You are completely caught up to season 2, episode 5.
+  </string>
+  <string name="Group_16">
+    You are  completely caught up to season 2, episode 6, and you are caught up to season 2, episode 7.
+    Season 2, episode 7 contains minor spoilers for book 3, chapter Jon 2.
+  </string>
+ 
+ <string name="Group_17">You are caught up to season 2, episode 9.
+Season 2, episode 8 contains major spoilers for book 3, chapter Catelyn 2, minor spoilers for book 3, chapter Jon 1, and minor spoilers for book 3, chapter Davos 4.  
+Previous episodes contain minor spoilers for book 3, chapter Jon 2. 
+</string>
+  <string name="Group_18">You are caught up to season 2, episode 10. 
+Season 2, episode 10 contains minor spoilers for book 3, Tyrion 2, and minor spoilers for book 3, chapter Davos 4. 
+Previous episodes contain major spoilers for book 3, chapter Catelyn 2, and minor spoilers for book 3, chapter Davos 4. 
+</string>
+  <string name="Group_19">You are caught up to season 2, episode 10. 
+Season 2, episode 10 contains minor spoilers for book 3, chapter Davos 4. 
+Previous episodes contain major spoilers for book 3, chapter Catelyn 2, and minor spoilers for book 3, chapter Davos 4. 
+</string>
+  <string name="Group_20">You are caught up to season 2, episode 10. 
+Season 2, episode 10 contains minor spoilers for book 3, chapter Davos 4 
+Previous episodes contain minor spoilers for book 3, chapter Jon 2, and minor spoilers for book 3, chapter Davos 4. 
+</string>
+  <string name="Group_21">You are caught up to season 2, episode 10. 
+Season 2, episode 10 contains minor spoilers for book 3, chapter Davos 4.
+Previous episodes contain minor spoilers for book 3, chapter Davos 4.
+</string>
+  <string name="Group_22">You are caught up to season 3, episode 1. 
+Previous episodes contain minor spoilers for book 3, chapter Davos 4.
+</string>
+  <string name="Group_23">You are caught up to season 3, episode 2. 
+Season 3, episode 2 contains minor spoilers for book 5, chapter Reek 1. 
+You are also caught up to season 3, episode 3. 
+Season 3, episode 3 contains major spoilers for book 5, chapter Reek 1. 
+Previous episodes contain minor spoilers for book 3, chapter Davos 4.
+</string>
+  <string name="Group_24">You are also caught up to season 3, episode 4. 
+Season 3, episode 4 contains major spoilers for book 5, chapter Reek 1. 
+Previous episodes contain minor spoilers for book 3, chapter Davos 4. 
+</string>
+  <string name="Group_25">You are caught up to season 3, episode 3. 
+Season 3, episode 3 contains major spoilers for book 5, chapter Reek 1. 
+You are also caught up to season 3, episode 4. 
+Season 3, episode 4 contains major spoilers for book 5, chapter Reek 1. 
+</string>
+  <string name="Group_26">You are caught up to season 3, episode 5. 
+Previous episodes contain major spoilers for book 5, chapter Reek 1.
+</string>
+  <string name="Group_27">You are caught up to season 3, episode 6. 
+Season 3, episode 6 contains minor spoilers for book 5, chapter Reek 1. 
+You are also caught up to season 3, episode 7. 
+Season 3, episode 7 contains minor spoilers for book 5, chapter Reek 1. 
+Previous episodes contain major spoilers for book 5, chapter Reek 1.
+</string>
+  <string name="Group_28">You are caught up to season 3, episode 8.
+Previous episodes contain major spoilers for book 5, chapter Reek 1.
+</string>
+  <string name="Group_29">You are caught up to season 3, episode 9. 
+Season 3, episode 9 contains minor spoilers for book 4, Jamie 7. 
+Previous episodes contain major spoilers for book 5, chapter Reek 1. 
+</string>
+  <string name="Group_30">You are caught up to season 3, episode 10. 
+Previous episodes contain minor spoilers for book 4, chapter Jamie 7, and major spoilers for book 5, chapter Reek 1.
+</string>
+  <string name="Group_31">You are caught up to season 4, episode 1. 
+Season 4, episode 1 contains minor spoilers for book 3, chapter Arya 13. 
+Previous episodes contain minor spoilers for book 4, chapter Jamie 7, and major spoilers for book 5, chapter Reek. 
+</string>
+  <string name="Group_32">You are caught up to season 4, episode 2. 
+Season 4, episode 2 contains minor spoilers for book 5, chapter Davos 1. 
+You are also caught up to season 4, episode 3. 
+Previous episodes contain minor spoilers for book 3, chapter Arya 13, minor spoilers for book 4, chapter Jamie 7, minor spoilers for book 5, chapter Davos 1, and major spoilers for book 5, chapter Reek 1.
+You are also caught up to season 4, episode 4.
+Season 4, episode 4 contains minor spoilers for book 4, chapter Brienne 2. 
+Previous episodes contain minor spoilers for book 3, chapter Arya 13, minor spoilers for book 4, chapter Jamie 7, minor spoilers for book 5, chapter Davos 1, and major spoilers for book 5, chapter Reek 1.
+You are also caught up to season 4, episode 5. 
+Season 4, episode 5 contains minor spoilers for book 3, chapter Sansa 7, and major spoilers for book 4, chapter Brienne 3. 
+Previous episodes contain minor spoilers for book 3, chapter Arya 13, minor spoilers for book 4, chapter Brienne 2, minor spoilers for book 4, chapter Jamie 7, minor spoilers for book 5, chapter Davos 1, and major spoilers for book 5, chapter Reek 1.
+You are caught up to season 4, episode 6. 
+Season 4, episode 6 contains minor spoilers for book 5, chapter Daenerys 1, minor spoilers for book 5, chapter Reek 1, and minor spoilers for book 5, chapter Jon 9. 
+Previous episodes contain minor spoilers for book 3, chapter Arya 13, minor spoilers for book 3, chapter Sansa 7, minor spoilers for book 4, chapter Brienne 2, major spoilers for book 4, chapter Brienne 3, minor spoilers for book 4, chapter Jamie 7, minor spoilers for book 5, chapter Davos 1, and major spoilers for book 5, chapter Reek 1.
+</string>
+  <string name="Group_33">You are caught up to season 4, episode 2. 
+Season 4, episode 2 contains minor spoilers for book 5, chapter Davos 1. 
+You are also caught up to season 4, episode 3. 
+Previous episodes contain minor spoilers for book 4, chapter Jamie 7, minor spoilers for book 5, chapter Davos 1, and major spoilers for book 5, chapter Reek 1.
+You are also caught up to season 4, episode 4.
+Season 4, episode 4 contains minor spoilers for book 4, chapter Brienne 2. 
+Previous episodes contain minor spoilers for book 4, chapter Jamie 7, minor spoilers for book 5, chapter Davos 1, and major spoilers for book 5, chapter Reek 1.
+You are also caught up to season 4, episode 5. 
+Season 4, episode 5 contains minor spoilers for book 3, chapter Sansa 7, and major spoilers for book 4, chapter Brienne 3. 
+Previous episodes contain minor spoilers for book 4, chapter Brienne 2, minor spoilers for book 4, chapter Jamie 7, minor spoilers for book 5, chapter Davos 1, and major spoilers for book 5, chapter Reek 1.
+You are also caught up to season 4, episode 6. 
+Season 4, episode 6 contains minor spoilers for book 5, chapter Daenerys 1, minor spoilers for book 5, chapter Reek 1, and minor spoilers for book 5, chapter Jon 9. 
+Previous episodes contain minor spoilers for book 3, chapter Sansa 7, minor spoilers for book 4, chapter Brienne 2, major spoilers for book 4, chapter Brienne 3, minor spoilers for book 4, chapter Jamie 7, minor spoilers for book 5, chapter Davos 1, and major spoilers for book 5, chapter Reek 1.
+</string>
+  <string name="Group_34">You are caught up to season 4, episode 7. 
+Season 4, episode 7 contains minor spoilers for book 5, chapter Daenerys 6. 
+Previous episodes contain minor spoilers for book 4, chapter Brienne 2, major spoilers for book 4, chapter Brienne 3, minor spoilers for book 4, chapter Jamie 7, minor spoilers for book 5 chapter Daenerys 1, minor spoilers for book 5, chapter Davos 1, major spoilers for book 5, chapter Reek 1, and minor spoilers for book 5, chapter Jon 5. 
+You are also caught up to season 4, episode 8. 
+Season 4, episode 8 contains minor spoilers for book 4, chapters Alayne 1 and Alayne 2, and major spoilers for book 5, chapter Reek 2. 
+Previous episodes contain minor spoilers for book 4, chapter Brienne 2, major spoilers for book 4, chapter Brienne 3, minor spoilers for book 4, chapter Jamie 7, minor spoilers for book 5 chapter Daenerys 1, minor spoilers for book 5, chapter Davos 1, major spoilers for book 5, chapter Reek 1, minor spoilers for book 5, chapter Daenerys 6, and minor spoilers for book 5, chapter Jon 9. 
+You are also caught up to season 4, episode 9.
+Previous episodes contain minor spoilers for book 4, chapter Brienne 2, major spoilers for book 4, chapter Brienne 3, minor spoilers for book 4 chapter Alayne 1, minor spoilers for chapter Alayne 2, minor spoilers for book 4, chapter Jamie 7, minor spoilers for book 5 chapter Daenerys 1, minor spoilers for book 5, chapter Davos 1, major spoilers for book 5, chapter Reek 1, minor spoilers for book 5 chapter Reek 2, minor spoilers for book 5, chapter Daenerys 6, and minor spoilers for book 5, chapter Jon 9.
+You are also caught up to season 4, episode 10. 
+Season 4, episode 10 contains minor spoilers for book 5, chapter Daenerys 1, minor spoilers for book 5, chapter Daenerys 2, and major spoilers for book 5, chapter Bran 2.
+Previous episodes contain minor spoilers for book 4, chapter Brienne 2, major spoilers for book 4, chapter Brienne 3, minor spoilers for book 4 chapter Alayne 1, minor spoilers for chapter Alayne 2, minor spoilers for book 4, chapter Jamie 7, minor spoilers for book 5 chapter Daenerys 1, minor spoilers for book 5, chapter Davos 1, major spoilers for book 5, chapter Reek 1, minor spoilers for book 5 chapter Reek 2, minor spoilers for book 5, chapter Daenerys 6, and minor spoilers for book 5, chapter Jon 9.
+</string>
+  <string name="Group_35">You are caught up to season 4, episode 10. 
+Season 4, episode 10 contains minor spoilers for book 5, chapter Daenerys 1, minor spoilers for book 5, chapter Daenerys 2, and major spoilers for book 5, chapter Bran 2.
+Previous episodes contain major spoilers for book 4, chapter Brienne 3, minor spoilers for book 4 chapter Alayne 1, minor spoilers for chapter Alayne 2, minor spoilers for book 4, chapter Jamie 7, minor spoilers for book 5 chapter Daenerys 1, minor spoilers for book 5, chapter Davos 1, major spoilers for book 5, chapter Reek 1, minor spoilers for book 5 chapter Reek 2, minor spoilers for book 5, chapter Daenerys 6, and minor spoilers for book 5, chapter Jon 9.
+</string>
+  <string name="Group_36">You are caught up to season 4, episode 10. 
+Season 4, episode 10 contains minor spoilers for book 5, chapter Daenerys 1, minor spoilers for book 5, chapter Daenerys 2, and major spoilers for book 5, chapter Bran 2.
+Previous episodes contain minor spoilers for book 4 chapter Alayne 1, minor spoilers for chapter Alayne 2, minor spoilers for book 4, chapter Jamie 7, minor spoilers for book 5 chapter Daenerys 1, minor spoilers for book 5, chapter Davos 1, major spoilers for book 5, chapter Reek 1, minor spoilers for book 5 chapter Reek 2, minor spoilers for book 5, chapter Daenerys 6, and minor spoilers for book 5, chapter Jon 9.
+</string>
+  <string name="Group_37">You are caught up to season 4, episode 10. 
+Season 4, episode 10 contains minor spoilers for book 5, chapter Daenerys 1, minor spoilers for book 5, chapter Daenerys 2, and major spoilers for book 5, chapter Bran 2.
+Previous episodes contain minor spoilers for chapter Alayne 2, minor spoilers for book 4, chapter Jamie 7, minor spoilers for book 5 chapter Daenerys 1, minor spoilers for book 5, chapter Davos 1, major spoilers for book 5, chapter Reek 1, minor spoilers for book 5 chapter Reek 2, minor spoilers for book 5, chapter Daenerys 6, and minor spoilers for book 5, chapter Jon 9.
+</string>
+  <string name="Group_38">You are caught up to season 4, episode 10. 
+Season 4, episode 10 contains minor spoilers for book 5, chapter Daenerys 1, minor spoilers for book 5, chapter Daenerys 2, and major spoilers for book 5, chapter Bran 2.
+Previous episodes contain minor spoilers for book 4, chapter Jamie 7, minor spoilers for book 5 chapter Daenerys 1, minor spoilers for book 5, chapter Davos 1, major spoilers for book 5, chapter Reek 1, minor spoilers for book 5 chapter Reek 2, minor spoilers for book 5, chapter Daenerys 6, and minor spoilers for book 5, chapter Jon 9.
+</string>
+  <string name="Group_39">You are caught up to season 4, episode 10. 
+Season 4, episode 10 contains minor spoilers for book 5, chapter Daenerys 1, minor spoilers for book 5, chapter Daenerys 2, and major spoilers for book 5, chapter Bran 2.
+Previous episodes contain minor spoilers for book 5 chapter Daenerys 1, minor spoilers for book 5, chapter Davos 1, major spoilers for book 5, chapter Reek 1, minor spoilers for book 5 chapter Reek 2, minor spoilers for book 5, chapter Daenerys 6, and minor spoilers for book 5, chapter Jon 9.
+</string>
+  <string name="Group_40">You are caught up to season 4, episode 10. 
+Season 4, episode 10 contains minor spoilers for book 5, chapter Daenerys 2, and major spoilers for book 5, chapter Bran 2.
+Previous episodes contain minor spoilers for book 5, chapter Davos 1, major spoilers for book 5, chapter Reek 1, minor spoilers for book 5 chapter Reek 2, minor spoilers for book 5, chapter Daenerys 6, and minor spoilers for book 5, chapter Jon 9.
+</string>
+  <string name="Group_41">You are caught up to season 4, episode 10. 
+Season 4, episode 10 contains minor spoilers for book 5, chapter Daenerys 2, and major spoilers for book 5, chapter Bran 2.
+Previous episodes contain major spoilers for book 5, chapter Reek 1, minor spoilers for book 5 chapter Reek 2, minor spoilers for book 5, chapter Daenerys 6, and minor spoilers for book 5, chapter Jon 9.
+</string>
+  <string name="Group_42">You are caught up to season 5, episode 2. 
+Previous episodes contain minor spoilers for book 5, chapter Daenerys 2, major spoilers for book 5, chapter Reek 1, major spoilers for book 5, chapter Bran 2, minor spoilers for book 5 chapter Reek 2, minor spoilers for book 5, chapter Daenerys 6, and minor spoilers for book 5, chapter Jon 9.</string>
+  <string name="Group_43">You are caught up to season 5, episode 2. 
+Previous episodes contain major spoilers for book 5, chapter Reek 1, major spoilers for book 5, chapter Bran 2, minor spoilers for book 5 chapter Reek 2, minor spoilers for book 5, chapter Daenerys 6, and minor spoilers for book 5, chapter Jon 9.
+</string>
+  <string name="Group_44">You are caught up to season 5, episode 2. 
+Previous episodes contain major spoilers for book 5, chapter Bran 2, minor spoilers for book 5 chapter Reek 2, minor spoilers for book 5, chapter Daenerys 6, and minor spoilers for book 5, chapter Jon 9.
+</string>
+  <string name="Group_45">You are caught up to season 5, episode 2. 
+Previous episodes contain minor spoilers for book 5 chapter Reek 2, minor spoilers for book 5, chapter Daenerys 6, and minor spoilers for book 5, chapter Jon 9.
+</string>
+  <string name="Group_46">You are caught up to season 5, episode 2. 
+Previous episodes contain minor spoilers for book 5, chapter Daenerys 6, and minor spoilers for book 5, chapter Jon 9.
+</string>
+  <string name="Group_47">You are caught up to season 5, episode 2. 
+Previous episodes contain minor spoilers for book 5, chapter Jon 9.
+</string>
+  <string name="Group_48">You are caught up to season 5, episode 3. 
+Previous episodes contain minor spoilers for book 5, chapter Jon 9.
+You are also caught up to season 5, episode 4. 
+Previous episodes contain minor spoilers for book 5, chapter Jon 9.
+</string>
+  <string name="Group_49">You are completely caught up to season 5, episode 4. 
+  </string>
+  <string name="Group_50">You are completely caught up to season 5, episode 5. 
+  </string>
+
+
+</resources>
